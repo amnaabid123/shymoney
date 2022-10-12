@@ -1,0 +1,20 @@
+.transaction-count{
+    box-shadow: 0 0 2px gray;
+    padding: 15px;
+    border-radius: 10px;
+    color: rgb(72, 71, 71) !important;
+}
+.analatics-cards h4{
+ font-size: 20px;
+ color: gray !important;
+}
+.analatics-cards h5{
+    font-size: 16px;
+    color: gray !important;
+   }
+.category-card{
+    padding: 5px 15px;
+    box-shadow: 0 0 2px gray;
+    margin-top: 15px;
+    border-radius: 10px;
+}

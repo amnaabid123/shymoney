@@ -1,0 +1,68 @@
+.filters {
+    box-shadow: 0 0 3px grey;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.transcation-form label {
+    color: rgba(0, 0, 0, 0.781) !important;
+}
+
+.transcation-form input {
+
+    border: 1px solid gray;
+    border-bottom: 1px solid gray;
+    box-shadow: none !important;
+}
+
+.transcation-form input:focus {
+
+    border: 1px solid gray;
+    border-bottom: 1px solid gray !important;
+    box-shadow: none !important;
+}
+
+.ant-select-selector {
+    border: 1px solid gray !important;
+}
+
+.ant-select-selector:focus {
+    box-shadow: none !important;
+}
+.toogle{
+    border: 1px solid rgba(24, 24, 24, 0.523)!important;
+    border-radius: 5px;
+    padding: 5px 10px;
+   
+}
+.anticon svg{
+    font-size: 20px;
+    cursor: pointer;
+}
+.active-icons{
+    color: black;
+}
+.inactive-icons{
+    color: gray;
+}
+ .ant-picker{
+    border: 1px  solid rgba(16, 16, 16, 0.66) !important;
+ }
+ .ant-pagination-item a{
+    color: rgb(32, 31, 31) !important;
+ }
+ @media screen and (max-width: 700px) {
+    .homeHead {
+        margin: 5px 5px;
+        
+
+    }
+    .filters {
+        box-shadow: 0 0 3px grey;
+        padding: 15px 20px;
+        border-radius: 10px;
+     
+        white-space: nowrap;
+        word-wrap: break-word;
+    }
+}
